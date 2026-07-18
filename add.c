@@ -9,6 +9,7 @@ int main()
     printf("Second Number : %d\n", b);
     printf("Sum = %d\n", a + b);
     printf("Webhook Test\n");
+    printf("Webhook connection build successful");
 
     return 0;
 }
